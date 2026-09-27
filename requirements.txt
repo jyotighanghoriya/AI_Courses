@@ -1,0 +1,5 @@
+smolagents[openai]
+ipywidgets
+huggingface_hub
+ipykernel
+ddgs
